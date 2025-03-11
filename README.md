@@ -33,8 +33,8 @@ A full-stack e-commerve application built **React**, **Express**, **MongoDB**, a
 
    - Create a **.env** file in the root directory
    - Add the following variables
-     MONGO_URI=your_mongodb_connection_string  
-      PORT=5000
+   - MONGO_URI=your_mongodb_connection_string  
+   - PORT=5000
 
 4. Run the Application
 
@@ -42,3 +42,6 @@ A full-stack e-commerve application built **React**, **Express**, **MongoDB**, a
    npm run start
 
    ```
+   
+5. Check Out The Live Site
+   - [Product Store](https://product-store-yfa9.onrender.com/)
